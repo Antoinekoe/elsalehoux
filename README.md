@@ -1,6 +1,6 @@
 # Portfolio Website – Elsa Lehoux
 
-[![Website Screenshot](img/screenshot-homepage.png)]()
+[![Website Screenshot](img/screenshot-homepage.PNG)]()
 
 FRENCH WEBSITE – A minimalist, elegant, and responsive portfolio showcasing illustration and graphic design work. Built using HTML and CSS.
 
