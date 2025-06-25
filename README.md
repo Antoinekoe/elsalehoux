@@ -38,8 +38,8 @@ FRENCH WEBSITE – A minimalist, elegant, and responsive portfolio showcasing il
 
 ```
 elsalehoux.fr/
-├── fonts/          # Dossier contenant les polices
-├── img/             # Dossier contenant les images
+├── fonts/          # Typo file
+├── img/             # Images file
 ├── annee-2005.css
 ├── annee-2005.html
 ├── atna.css
@@ -61,12 +61,12 @@ elsalehoux.fr/
 ├── informations.html
 ├── la-planche.css
 ├── la-planche.html
-├── LICENSE       # Fichier de licence
+├── LICENSE       # License file
 ├── long-story.css
 ├── long-story.html
 ├── macval.css
 ├── macval.html
-├── README.md     # Fichier README
+├── README.md     # README file
 ├── st-denis.css
 ├── st-denis.html
 └── style.css
